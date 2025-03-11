@@ -1,7 +1,5 @@
 # Virtual Factory Simulation in Unreal Engine 5
 
-Project Overview
-
 This project aims to create a comprehensive and realistic virtual factory simulation using Unreal Engine 5. It integrates key aspects of Operational Technology (OT) and Information Technology (IT), including industrial protocols, cybersecurity components, and visualization tools.
 
 ### Objectives
