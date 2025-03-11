@@ -72,15 +72,15 @@ This project aims to create a comprehensive and realistic virtual factory simula
     
     - Beneficial for training IT/OT security teams, operators, engineers, and students.
     
-    - Requirements
-    
-    - Unreal Engine 5
-    
-    - C++ programming skills
-    
-    - Knowledge of industrial automation, OT security, and networking
-    
-    - Familiarity with cybersecurity tools and industrial protocols
+    - Requirements:
+        
+        - Unreal Engine 5
+        
+        - C++ programming skills
+        
+        - Knowledge of industrial automation, OT security, and networking
+        
+        - Familiarity with cybersecurity tools and industrial protocols
 
 ### Future Development
 
