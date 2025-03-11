@@ -20,13 +20,13 @@ This project aims to create a comprehensive and realistic virtual factory simula
 
     - Select appropriate industrial communication protocols, such as:
 
-    - OPC UA
-
-    - Modbus TCP/IP
-
-    - PROFINET
-
-    - EtherNet/IP
+        - OPC UA
+    
+        - Modbus TCP/IP
+    
+        - PROFINET
+    
+        - EtherNet/IP
 
     - Justify protocol selection based on reliability, real-time performance, and cybersecurity.
 
@@ -54,17 +54,17 @@ This project aims to create a comprehensive and realistic virtual factory simula
     
     - Implement and configure cybersecurity elements:
     
-    - Firewall (e.g., Palo Alto or Fortinet virtual appliances)
+        - Firewall (e.g., Palo Alto or Fortinet virtual appliances)
     
-    - Intrusion Detection Systems (IDS)
-    
-    - Security Information and Event Management (SIEM) systems
-    
-    - Establish realistic OT environment components:
-    
-    - Database historians for data logging and analytics
-    
-    - Realistic Human-Machine Interface (HMI) visualizations for operator training
+        - Intrusion Detection Systems (IDS)
+        
+        - Security Information and Event Management (SIEM) systems
+        
+        - Establish realistic OT environment components:
+        
+        - Database historians for data logging and analytics
+        
+        - Realistic Human-Machine Interface (HMI) visualizations for operator training
 
 ### Usage
 
