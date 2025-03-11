@@ -6,23 +6,23 @@ This project aims to create a comprehensive and realistic virtual factory simula
 
 ### Objectives
 
-Develop a detailed virtual factory concept.
+    - Develop a detailed virtual factory concept.
 
-Implement realistic industrial communication protocols.
+    - Implement realistic industrial communication protocols.
 
-Build a fully functional virtual environment representing a real-world industrial setup.
+    - Build a fully functional virtual environment representing a real-world industrial setup.
 
-Integrate security solutions such as Firewall, IDS, SIEM, and historical data management (Historian).
+    - Integrate security solutions such as Firewall, IDS, SIEM, and historical data management (Historian).
 
-Include realistic Human-Machine Interface (HMI) visualizations.
+    - Include realistic Human-Machine Interface (HMI) visualizations.
 
 ### 1. Concept Development and Industrial Protocols Selection
 
-Define the virtual factory layout, machinery, processes, and workflows.
+    - Define the virtual factory layout, machinery, processes, and workflows.
 
-Select appropriate industrial communication protocols, such as:
+    - Select appropriate industrial communication protocols, such as:
 
-OPC UA
+    - OPC UA
 
 Modbus TCP/IP
 
